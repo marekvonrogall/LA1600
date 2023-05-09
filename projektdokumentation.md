@@ -2,7 +2,7 @@
 
 Gruppenname: Mango
 
-Gruppenmitglieder: von Rogall, Atputharasa, Greub, Mitrovic
+Gruppenmitglieder: von Rogall, Atputharasa, Greub und Mitrovic
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
