@@ -37,6 +37,7 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 ### 1.4 Diagramme
 
 ![image](https://user-images.githubusercontent.com/110892641/237025887-10e60e74-c686-4843-82c1-13005d733d05.png)
+![image](https://user-images.githubusercontent.com/110892641/237029318-e6b060f0-d10d-4650-a084-bd4031074130.png)
 
 
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
