@@ -2,7 +2,8 @@
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Gruppenname: Mango
+Gruppenmitglieder: von Rogall, Atputharasa, Greub, Mitrovic
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
