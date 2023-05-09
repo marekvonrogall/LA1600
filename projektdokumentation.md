@@ -14,7 +14,7 @@ Gruppenmitglieder: von Rogall, Atputharasa, Greub, Mitrovic
 
 ### 1.1 Ihr Projekt
 
-In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einfach zu bedienen ist und unsere Gruppe als Team darstellt. Wir möchten durch die Verwendung von CSS das Design und die Benutzerfreundlichkeit unserer Webseite verbessern und gleichzeitig unser Verständnis für die Funktionsweise von CSS erweitern. Um zukünftig ästhetisch ansprechende und technisch einwandfreie Webseiten zu erstellen, ist es unser Ziel, unsere Fähigkeiten in den Bereichen Webdesign zu verbessern.
+In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einfach zu bedienen ist und unsere Clothing Brand darstellt. Wir möchten durch die Verwendung von CSS das Design und die Benutzerfreundlichkeit unserer Webseite verbessern und gleichzeitig unser Verständnis für die Funktionsweise von CSS erweitern. Um zukünftig ästhetisch ansprechende und technisch einwandfreie Webseiten zu erstellen, ist es unser Ziel, unsere Fähigkeiten in den Bereichen Webdesign zu verbessern.
 
 ### 1.2 User Stories
 
