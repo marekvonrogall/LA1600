@@ -1,16 +1,14 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
 Gruppenname: Mango
 
 Gruppenmitglieder: von Rogall, Atputharasa, Greub, Mitrovic
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 9.5.23      | 0.0.1   | Dokumentation angefangen und Schritte 1.1, 1.2, 1.4 ausgefüllt. |
+| 16.5.23      | ...     |                                                              |
+| 23.5.23      | 1.0.0   |                                                              |
 
 ## 1 Informieren
 
