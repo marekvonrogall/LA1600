@@ -19,9 +19,22 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| ----- | ------- | ----------- |------------------------------------|
+| 1    |   muss              |    Qualität  | Als ein User möchte ich eine coole Startseite haben, damit die Seite interessant aussieht und mich so motiviert ein Produkt auch zu kaufen |
+| 2  |    muss             |   funktional   |     Als User möchte ich ein Suchfenster zur Verfügung haben, damit ich Produkte schneller und einfacher finden kann.                               |
+|3|muss|funktional|Als User möchte ich ein Filter haben, damit ich ein Vorschau zu den Produkten habe und diese schneller finde.|
+|4|muss/kann|funktional/Qualität|Als User möchte ich|
+|5|muss/kann|funktional/Qualität|Als User möchte ich|
+|6|muss/kann|funktional/Qualität|Als User möchte ich|
+|7|muss/kann|funktional/Qualität|Als User möchte ich|
+|8|muss/kann|funktional/Qualität|Als User möchte ich|
+|9|muss/kann|funktional/Qualität|Als User möchte ich|
+|10|muss/kann|funktional/Qualität|Als User möchte ich|
+|11|muss/kannmuss/kann|funktional/Qualität|Als User möchte ich|
+|12|muss/kann|funktional/Qualität|Als User möchte ich|
+|13|muss/kann|funktional/Qualität|Als User möchte ich|
+|14|muss/kann|funktional/Qualität|Als User möchte ich|
+|15|muss/kann|funktional/Qualität|Als User möchte ich|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -40,7 +53,7 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 ![image](https://user-images.githubusercontent.com/110892641/237029318-e6b060f0-d10d-4650-a084-bd4031074130.png)
 
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+
 
 ## 2 Planen
 
