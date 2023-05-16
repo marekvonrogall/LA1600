@@ -23,7 +23,7 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 | 1    |   muss              |    Qualität  | Als ein User möchte ich eine coole Startseite haben, damit die Seite interessant aussieht und mich so motiviert ein Produkt auch zu kaufen |
 | 2  |    muss             |   funktional   |     Als User möchte ich ein Suchfenster zur Verfügung haben, damit ich Produkte schneller und einfacher finden kann.                               |
 |3|muss|funktional|Als User möchte ich ein Filter haben, damit ich ein Vorschau zu den Produkten habe und diese schneller finde.|
-|4|muss|Qualität|Als User möchte ich dass die Webseite für den Gebrauch am Telefon optimiert ist, damit sich Benutzer am Handy besser zurecht finden. |
+|4|muss|Qualität|Als User möchte ich dass die Webseite für den Gebrauch am Telefon optimiert ist, damit sich ein Benutzer am Handy besser zurecht finden. |
 |5|muss|funktional|Als User möchte ich die Kontankangaben des Betreibers sehen, damit ich diesen kontaktieren kann. |
 |6|muss|Qualität|Als User möchte ich die neuesten Produkte direkt sehen, damit ich direkt auf dem neuesten Stand bin. |
 |7|muss|funktional|Als User möchte ich eine Seite mit allen Produkten haben, damit ich alle Produkte direkt sehen kann.|
@@ -35,8 +35,27 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |  Browser geöffnet            | Webseite wird geöffnet        |   Startseite wird angezeigt                |
+| 1.2  |  Browser  geöffnet           | Webseite wird geöffnet        |   Startseite mit Bild und Text wird angezeigt                |
+| 1.3  |  Browser geöffnet            | Webseite wird geöffnet        |   Header wird mit Logo angezeigt                |
+| 1.4  |  Browser geöffnet            | Webseite wird geöffnet        |   Header wird mit Logo und Buttons angezeigt                |
+| 1.5  |  Browser geöffnet            | Webseite wird geöffnet        |   Header wird mit Logo und allen Symbolen angezeigt                |
+| 2.1 |  Startseite geöffnet            | Es wird auf die Lupe geklickt        |   Suchfenster öffnet sich                |
+| 2.2 |  Suchfenster geöffnet            | Eingabe z.B. T-Shirt        |   Alle T-Shirts werden angezeigt                |
+| 2.3 |  Suchfenster geöffnet, Eingabe in der Suchleiste getätigt            | Es wird auf X gedrückt        |   Inhalt in der Suchleiste wird gelöscht                |
+| 2.4 |  Suchfenster geöffnet            | Eingabe z.B. H       |   Vorschläge werden angezeigt, z.B. Hose                |
+| 2.5 |  Startseite geöffnet            | Es wird auf die Lupe geklickt        |  Suchfenster mit Text darin wird angezeigt                |
+| 3.1 |  Startseite geöffnet            | Es wird  auf Produkte gedrückt        |   Produktseite wird geöffnet                |
+| 3.2 |  Produktseite geöffnet            | Es wird auf einen Filter geklickt        |   Resultate werden korrekt gefiltert                |
+| 3.3 |  Produktseite geöffnet, Filter angewendet            | Benutzer klickt auf X        |   Filter werden zurückgesetzt                |
+| 5.1 |  Startseite geöffnet            | Es wird auf About Us geklickt        |   Es soll heruntergescrollt und die _About Us_ Sektion angezeigt werden                |
+| 6.1 |  Startseite geöffnet            | Benutzer scrollt nach unten        |   Neue Produkte Sektion soll zusehen sein                |
+| 6.2 |  Startseite geöffnet, Neue Produkte sichtbar            | Es wird auf den rechten Pfeil gedrückt        |   Es werden mehr neue Produkte angezeigt                |
+| 7.1 |  Startseite geöffnet            | Es wird auf Produkte geklickt        |   Seite mit den Produkten soll geöffnet werden                |
+| 7.2 |  Startseite geöffnet            | Es wird auf Produkte geklickt        |   Es sollen alle Produkte angezeigt werden                |
+| 7.3 |  Produktseite geöffnet            | Benutzer fährt über das Produktbild        |   Entsprechendes Bild soll sich drehen                |
+| 7.4 |  Produktseite geöffnet            | Benutzer scrollt nach unten        |  Unter den Produktbildern soll der Name des Produkts angezeigt werden                |
+| 7.5 |  Produktseite geöffnet            | Benutzer scrollt nach unten        |  Unter den Produktbildern soll der Preis des Produkts angezeigt werden                |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -66,10 +85,10 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 | 3.B  |   23.5    |  Atputharasa         |  Es sollen verschiede Filter erstellt werden mit Hilfe von Checkboxen          |   45            |
 | 3.C  |   23.5    |  Atputharasa         |  Der Benutzer soll die Möglichkeit haben, die Filter zurückzusetzen          |   30            |
 | 5.A  |   23.5    |  Atputharasa         |  Ganz Unten auf der Seite sollen die Kontaktdaten angegeben werden           |  30             |
-| 6.A  |   23.5    |  Atputharasa         |  Unter dem Bild sollen neuen Produkte zur Schau gestellt werden            |    45           |
+| 6.A  |   23.5    |  Atputharasa         |  Unter dem Bild sollen neue Produkte zur Schau gestellt werden            |    45           |
 | 6.B  |   23.5    |  Atputharasa         |  Man soll sich bei den neuen Produkte von links nach rechts durchklicken können         |     60          |
 | 7.A  |   23.5    |  Greub         |  Wenn der Benutzer auf Produkte dückt soll die Seite mit den Produkten geöffnet werden           |    45           |
-| 7.B  |   23.5    |  Greub         |  Auf der Seite mit den Produkten sollen alle            |    45           |
+| 7.B  |   23.5    |  Greub         |  Auf der Seite mit den Produkten sollen alle Produkte sichtbar sein           |    45           |
 | 7.C  |   23.5    |  Greub         |  Wenn der Benutzer über das Bild fährt, soll sich das Produkt auf dem Bildschirm drehen          |   60            |
 | 7.D  |   23.5    |  Greub         |  Unter den Bildern soll der Name des Produktes angezeigt werden          |   15            |
 | 7.E  |   23.5    |  Greub        |  Unter den Bildern soll ausserdem noch der Preis des Produktes angezeigt werden          |   15            |
