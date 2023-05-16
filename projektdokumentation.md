@@ -23,18 +23,11 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 | 1    |   muss              |    Qualität  | Als ein User möchte ich eine coole Startseite haben, damit die Seite interessant aussieht und mich so motiviert ein Produkt auch zu kaufen |
 | 2  |    muss             |   funktional   |     Als User möchte ich ein Suchfenster zur Verfügung haben, damit ich Produkte schneller und einfacher finden kann.                               |
 |3|muss|funktional|Als User möchte ich ein Filter haben, damit ich ein Vorschau zu den Produkten habe und diese schneller finde.|
-|4|muss/kann|funktional/Qualität|Als User möchte ich|
-|5|muss/kann|funktional/Qualität|Als User möchte ich|
-|6|muss/kann|funktional/Qualität|Als User möchte ich|
-|7|muss/kann|funktional/Qualität|Als User möchte ich|
-|8|muss/kann|funktional/Qualität|Als User möchte ich|
-|9|muss/kann|funktional/Qualität|Als User möchte ich|
-|10|muss/kann|funktional/Qualität|Als User möchte ich|
-|11|muss/kannmuss/kann|funktional/Qualität|Als User möchte ich|
-|12|muss/kann|funktional/Qualität|Als User möchte ich|
-|13|muss/kann|funktional/Qualität|Als User möchte ich|
-|14|muss/kann|funktional/Qualität|Als User möchte ich|
-|15|muss/kann|funktional/Qualität|Als User möchte ich|
+|4|muss|Qualität|Als User möchte ich dass die Webseite für den Gebrauch am Telefon optimiert ist, damit sich Benutzer am Handy besser zurecht finden. |
+|5|muss|funktional|Als User möchte ich die Kontankangaben des Betreibers sehen, damit ich diesen kontaktieren kann. |
+|6|muss|Qualität|Als User möchte ich die neuesten Produkte direkt sehen, damit ich direkt auf dem neuesten Stand bin. |
+|7|muss|funktional|Als User möchte ich eine Seite mit allen Produkten haben, damit ich alle Produkte direkt sehen kann.|
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
