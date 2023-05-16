@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Online Shop</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue">
+    <style>
+        :root {
+            --standardcolor: #C9DBC1;
+            --accentcolor: #DCE6CA;
+            --textcolor: #2b2b2b;
+            --backgroundcolor: #ffffff;
+        }
+
+        body {
+            font-family: "Bebas+Neue", sans-serif;
+            background-color: var(--backgroundcolor);
+        }
+
+        .navbar {
+            background-color: #f2f2f2;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 999;
+        }
+
+        .navbar-logo {
+            width: 100px;
+            height: 100px;
+        }
+
+        .navbar-links {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-grow: 1;
+        }
+
+        .navbar-links a {
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+        }
+
+        .big-image {
+            position: relative;
+            width: 100%;
+            height: 400px;
+            overflow: hidden;
+        }
+
+        .big-image img {
+            width: 100%;
+            filter: blur(10px);
+        }
+
+        .big-image-text-button {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+
+        .big-image-text-button h2 {
+            color: var(--textcolor);
+            font-size: 45px;
+        }
+
+        .big-image-text-button .button {
+            border: 2px solid var(--standardcolor);
+            background-color: transparent;
+            color: var(--standardcolor);
+            padding: 10px 20px;
+            font-size: 18px;
+            text-decoration: none;
+        }
+
+        .big-image-text-button .button:hover {
+            color: var(--accentcolor);
+            border: 3px solid var(--accentcolor);
+        }
+
+        #ÜberUns {
+            text-align: center;
+            color: var(--textcolor);
+        }
+
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 40%;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-content: start;
+            gap: 10px;
+            margin: 50px 30px;
+            padding: 20px;
+            background-color: var(--standardcolor);
+        }
+
+        .box {
+            flex: 1 0 200px;
+            padding: 10px;
+            background-color: var(--backgroundcolor);
+        }
+
+        .button-container {
+            margin-top: 10px;
+            width: 100%;
+            text-align: center;
+        }
+
+        #P_name,
+        #P_price {
+            color: var(--textcolor)
+        }
+    </style>
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="navbar-logo">
+            <img src="C:\Users\Marek von Rogall\Desktop\logoWebsite.jpg" alt="Logo">
+        </div>
+        <div class="navbar-links">
+            <a href="index.html">Home</a>
+            <a href="contact.html">Contact Us</a>
+            <a href="products.html">Products</a>
+        </div>
+    </div>
+
+    <br>
+    <div class="big-image">
+        <img src="https://www.ionos.at/startupguide/fileadmin/StartupGuide/Teaser/onlineshop-erstellen.jpg"
+            alt="Big Image">
+        <div class="big-image-text-button">
+            <h2>Willkommen im Online-Shop!</h2>
+            <a class="button" href="products.html">Zu den Produkten</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="box">
+            <h3 id="P_name">T-Shirt</h3>
+            <p id="P_price">CHF 39,95</p>
+            <img src="https://cdn.engelbert-strauss.ch/assets/pdp/images/Two_MainImage_Desktop/product/8.Release.3101440/STONEKIT_T-Shirt_Basic-8332-2-635349596742588134.jpg"
+                alt="T-Shirt">
+        </div>
+        <div class="box">
+            <h3 id="P_name">Hose</h3>
+            <p id="P_price">CHF 59,35</p>
+            <img src="https://img.zolaprod.babsta.net/lti3zL6JeH7hOgHqjXQwnQiOE7M=/fit-in/1700x1700/244c47fd4bd54f37b2312bf1a5265c75"
+                alt="Hose">
+        </div>
+        <div class="box">
+            <h3 id="P_name">Handtasche</h3>
+            <p id="P_price">CHF 30,25</p>
+            <img src="https://bilder.jelmoli-shop.ch/i/empiriecom/9aef33aa80addc86678a017fa1e49524?$PL_portrait_hq$"
+                alt="Handtasche">
+        </div>
+
+
+        <div class="button-container">
+            <a href="products.html"><button>WEITERE PRODUKTE ANZEIGEN</button></a>
+        </div>
+    </div>
+</body>
+
+<h4 id="ÜberUns">Contact Us</h4>
+<p id="ÜberUns">
+    Impressum:
+    Name
+    Adresse
+    usw...
+</p>
+
+</html>
