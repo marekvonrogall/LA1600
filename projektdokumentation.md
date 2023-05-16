@@ -109,10 +109,29 @@ Total:
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| AP-№ | Datum | Zuständig   | geplante Zeit | tatsächliche Zeit |
+|------|-------|-------------|---------------|-------------------|
+| 1.A  |       |   | 30            |                   |
+| 1.B  |       |   | 45            |                   |
+| 1.C  |       |   | 40            |                   |
+| 1.D  |       |   | 30            |                   |
+| 1.E  |       |   | 30            |                   |
+| 2.A  |       |   | 45            |                   |
+| 2.B  |       |    | 60            |                   |
+| 2.C  |       |     | 45            |                   |
+| 2.D  |       |     | 60            |                   |
+| 2.E  |       |     | 30            |                   |
+| 3.A  |       |     | 60            |                   |
+| 3.B  |       |  | 45            |                   |
+| 3.C  |       |  | 30            |                   |
+| 5.A  |       |  | 30            |                   |
+| 6.A  |       |  | 45            |                   |
+| 6.B  |       |  | 60            |                   |
+| 7.A  |       |        | 45            |                   |
+| 7.B  |       |        | 45            |                   |
+| 7.C  |       |        | 60            |                   |
+| 7.D  |       |        | 15            |                   |
+| 7.E  |       |        | 15            |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
