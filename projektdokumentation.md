@@ -48,6 +48,7 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 | 3.1 |  Startseite geöffnet            | Es wird  auf Produkte gedrückt        |   Produktseite wird geöffnet                |
 | 3.2 |  Produktseite geöffnet            | Es wird auf einen Filter geklickt        |   Resultate werden korrekt gefiltert                |
 | 3.3 |  Produktseite geöffnet, Filter angewendet            | Benutzer klickt auf X        |   Filter werden zurückgesetzt                |
+| 4.1 |  (Am Handy) Browser geöffnet        | Webseite wird geöffnet                    | Es soll ein für das Handy optimierte Design angezeigt werden |
 | 5.1 |  Startseite geöffnet            | Es wird auf About Us geklickt        |   Es soll heruntergescrollt und die _About Us_ Sektion angezeigt werden                |
 | 6.1 |  Startseite geöffnet            | Benutzer scrollt nach unten        |   Neue Produkte Sektion soll zusehen sein                |
 | 6.2 |  Startseite geöffnet, Neue Produkte sichtbar            | Es wird auf den rechten Pfeil gedrückt        |   Es werden mehr neue Produkte angezeigt                |
@@ -84,6 +85,7 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 | 3.A  |   23.5    |  Mitrovic         |  Es soll das Fenster zum Filtern geöffnet werden, wenn der Benutzer auf Produkte drückt          |   60            |
 | 3.B  |   23.5    |  Atputharasa         |  Es sollen verschiede Filter erstellt werden mit Hilfe von Checkboxen          |   45            |
 | 3.C  |   23.5    |  Atputharasa         |  Der Benutzer soll die Möglichkeit haben, die Filter zurückzusetzen          |   30            |
+| 4.A  |   23.5    |  Atputharasa         |  Die Webseite soll auf den Gebrauch am Smartphone optimiert werden  |     60 |
 | 5.A  |   23.5    |  Atputharasa         |  Ganz Unten auf der Seite sollen die Kontaktdaten angegeben werden           |  30             |
 | 6.A  |   23.5    |  Atputharasa         |  Unter dem Bild sollen neue Produkte zur Schau gestellt werden            |    45           |
 | 6.B  |   23.5    |  Atputharasa         |  Man soll sich bei den neuen Produkte von links nach rechts durchklicken können         |     60          |
@@ -124,6 +126,7 @@ Total:
 | 3.A  |       |     | 60            |                   |
 | 3.B  |       |  | 45            |                   |
 | 3.C  |       |  | 30            |                   |
+| 4.A  |       |  | 60            |                   |
 | 5.A  |       |  | 30            |                   |
 | 6.A  |       |  | 45            |                   |
 | 6.B  |       |  | 60            |                   |
