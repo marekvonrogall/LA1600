@@ -59,26 +59,26 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   23.5    |           |  Bild wird auf der Startseite angezeigt            |      30         |
-| 1.B  |   23.5    |           |  Auf dem  Bild soll ein Text und ein Button angezeigt werden            |      45         |
-| 1.C  |   23.5    |           |  Unter dem Bild sollen neuen Produkte zur Schau gestellt werden            |    45           |
-| 1.D  |   23.5    |           |  Man soll sich bei den neuen Produkte von links nach rechts durchklicken können         |     60          |
-| 1.E  |   23.5    |           |  Ganz Unten auf der Seite sollen die Kontaktdaten angegeben werden           |  30             |
-| 1.F  |   23.5    |           |  Es soll einen Header geben, auf dem das Logo ganz links angezeigt werden soll            |     40          |
-| 1.G  |   23.5    |           |  Auf dem Header soll ausserdem noch ein Home, Contact Us und Products Button vorhanden sein           |     30          |
-| 1.H  |   23.5    |           |  Der Header soll ausserdem noch ein Such- und Warenkorbsymbol zeigen           |    30           |
-| 2.A  |   23.5    |           |  Benutzer soll auf das Suchsymbol klicken können um die Suche zu öffnen          |   45            |
-| 2.B  |   23.5    |           |  Bei der Suche sollen nach der Eingabe die passenden Produkte angezeigt werden          |   60            |
-| 2.C  |   23.5    |           |  Wenn auf das X bei der Suche gedrückt wird, soll die Eingabe gelöscht werden	|   45            |
-| 2.D  |   23.5    |           |  Wenn bei der Suche etwas eingegeben wird, sollen Vorschläge angezeigt werden          |     60          |
-| 2.E  |   23.5    |           |  In der Suchleiste soll ein kleiner Text angezeigt werden          |   30            |
-| 3.A  |   23.5    |           |  Es soll das Fenster zum Filtern geöffnet werden, wenn der Benutzer auf Produkte drückt          |   60            |
-| 3.B  |   23.5    |           |  Es sollen auf der Produkte seite alle möglichen Produkte angezeigt werden          |   45            |
-| 3.C  |   23.5    |           |  Es sollen verschiede Filter erstellt werden, mit Hilfe von Checkboxen          |   45            |
-| 3.D  |   23.5    |           |  Der Benutzer soll die Möglichkeit haben, die Filter zurückzusetzen          |   30            |
-| 3.E  |   23.5    |           |  Wenn der Benutzer über das Bild fährt, soll sich das Produkt auf dem Bildschirm drehen          |   60            |
-| 3.F  |   23.5    |           |  Unter den Bildern soll der Name des Produktes angezeigt werden          |   15            |
-| 3.G  |   23.5    |           |  Unter den Bildern soll ausserdem noch der Preis des Produktes angezeigt werden          |   15            |
+| 1.A  |   23.5    |  von Rogall         |  Bild wird auf der Startseite angezeigt            |      30         |
+| 1.B  |   23.5    |  von Rogall         |  Auf dem  Bild soll ein Text und ein Button angezeigt werden            |      45         |
+| 1.C  |   23.5    |  von Rogall         |  Unter dem Bild sollen neuen Produkte zur Schau gestellt werden            |    45           |
+| 1.D  |   23.5    |  von Rogall         |  Man soll sich bei den neuen Produkte von links nach rechts durchklicken können         |     60          |
+| 1.E  |   23.5    |  von Rogall         |  Ganz Unten auf der Seite sollen die Kontaktdaten angegeben werden           |  30             |
+| 1.F  |   23.5    |  Mitrovic         |  Es soll einen Header geben, auf dem das Logo ganz links angezeigt werden soll            |     40          |
+| 1.G  |   23.5    |  Mitrovic         |  Auf dem Header soll ausserdem noch ein Home, Contact Us und Products Button vorhanden sein           |     30          |
+| 1.H  |   23.5    |  Mitrovic         |  Der Header soll ausserdem noch ein Such- und Warenkorbsymbol zeigen           |    30           |
+| 2.A  |   23.5    |  Mitrovic         |  Benutzer soll auf das Suchsymbol klicken können um die Suche zu öffnen          |   45            |
+| 2.B  |   23.5    |  Mitrovic         |  Bei der Suche sollen nach der Eingabe die passenden Produkte angezeigt werden          |   60            |
+| 2.C  |   23.5    |  Atputharasa         |  Wenn auf das X bei der Suche gedrückt wird, soll die Eingabe gelöscht werden	|   45            |
+| 2.D  |   23.5    |  Atputharasa         |  Wenn bei der Suche etwas eingegeben wird, sollen Vorschläge angezeigt werden          |     60          |
+| 2.E  |   23.5    |  Atputharasa         |  In der Suchleiste soll ein kleiner Text angezeigt werden          |   30            |
+| 3.A  |   23.5    |  Atputharasa         |  Es soll das Fenster zum Filtern geöffnet werden, wenn der Benutzer auf Produkte drückt          |   60            |
+| 3.B  |   23.5    |  Atputharasa         |  Es sollen auf der Produkte seite alle möglichen Produkte angezeigt werden          |   45            |
+| 3.C  |   23.5    |  Greub         |  Es sollen verschiede Filter erstellt werden, mit Hilfe von Checkboxen          |   45            |
+| 3.D  |   23.5    |  Greub         |  Der Benutzer soll die Möglichkeit haben, die Filter zurückzusetzen          |   30            |
+| 3.E  |   23.5    |  Greub         |  Wenn der Benutzer über das Bild fährt, soll sich das Produkt auf dem Bildschirm drehen          |   60            |
+| 3.F  |   23.5    |  Greub         |  Unter den Bildern soll der Name des Produktes angezeigt werden          |   15            |
+| 3.G  |   23.5    |  Greub        |  Unter den Bildern soll ausserdem noch der Preis des Produktes angezeigt werden          |   15            |
 
 
 Total: 
