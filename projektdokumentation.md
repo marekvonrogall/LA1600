@@ -7,7 +7,7 @@ Gruppenmitglieder: von Rogall, Atputharasa, Greub und Mitrovic
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 9.5.23      | 0.0.1   | Dokumentation angefangen und Schritte 1.1, 1.2, 1.4 ausgefüllt. |
-| 16.5.23      | ...     |                                                              |
+| 16.5.23      | 0.0.2    |     Erweiterung der Dokumentation und Realisieren begonnen                           |
 | 23.5.23      | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -89,7 +89,7 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 | 5.A  |   23.5    |  Atputharasa         |  Ganz Unten auf der Seite sollen die Kontaktdaten angegeben werden           |  30             |
 | 6.A  |   23.5    |  Atputharasa         |  Unter dem Bild sollen neue Produkte zur Schau gestellt werden            |    45           |
 | 6.B  |   23.5    |  Atputharasa         |  Man soll sich bei den neuen Produkte von links nach rechts durchklicken können         |     60          |
-| 7.A  |   23.5    |  Greub         |  Wenn der Benutzer auf Produkte dückt soll die Seite mit den Produkten geöffnet werden           |    45           |
+| 7.A  |   23.5    |  Greub         |  Wenn der Benutzer auf Produkte drückt soll die Seite mit den Produkten geöffnet werden           |    45           |
 | 7.B  |   23.5    |  Greub         |  Auf der Seite mit den Produkten sollen alle Produkte sichtbar sein           |    45           |
 | 7.C  |   23.5    |  Greub         |  Wenn der Benutzer über das Bild fährt, soll sich das Produkt auf dem Bildschirm drehen          |   60            |
 | 7.D  |   23.5    |  Greub         |  Unter den Bildern soll der Name des Produktes angezeigt werden          |   15            |
@@ -113,17 +113,17 @@ Total:
 
 | AP-№ | Datum | Zuständig   | geplante Zeit | tatsächliche Zeit |
 |------|-------|-------------|---------------|-------------------|
-| 1.A  |   16.05.2023    |   | 30            |    25               |
-| 1.B  |   16.05.2023    |   | 45            |    30               |
-| 1.C  |   16.05.2023    |   | 40            |    40               |
-| 1.D  |   16.05.2023    |   | 30            |    15               |
-| 1.E  |       |   | 30            |                   |
-| 2.A  |       |   | 45            |                   |
-| 2.B  |       |    | 60            |                   |
-| 2.C  |       |     | 45            |                   |
-| 2.D  |       |     | 60            |                   |
-| 2.E  |       |     | 30            |                   |
-| 3.A  |       |     | 60            |                   |
+| 1.A  |   16.05.2023    | von Rogall    | 30            |    25               |
+| 1.B  |   16.05.2023    | von Rogall    | 45            |    30               |
+| 1.C  |   16.05.2023    | von Rogall    | 40            |    40               |
+| 1.D  |   16.05.2023    | von Rogall    | 30            |    15               |
+| 1.E  |   16.05.2023    | Von Rogall    | 30            |                   |
+| 2.A  |       | von Rogall    | 45            |                   |
+| 2.B  |       |  Mitrovic  | 60            |                   |
+| 2.C  |       |   Mitrovic  | 45            |                   |
+| 2.D  |       |  Mitrovic   | 60            |                   |
+| 2.E  |  16.05.2023     |  Mitrovic   | 30            |       15 Min            |
+| 3.A  |       |   Mitrovic  | 60            |                   |
 | 3.B  |       |  | 45            |                   |
 | 3.C  |       |  | 30            |                   |
 | 4.A  |       |  | 60            |                   |
@@ -133,8 +133,8 @@ Total:
 | 7.A  |       |        | 45            |                   |
 | 7.B  |       |        | 45            |                   |
 | 7.C  |       |        | 60            |                   |
-| 7.D  |       |        | 15            |                   |
-| 7.E  |       |        | 15            |                   |
+| 7.D  |    16.05.2023   |    Greub    | 15            |         15 Min          |
+| 7.E  |    16.05.2023   |    Greub    | 15            |       20 Min            |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
