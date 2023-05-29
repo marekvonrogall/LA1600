@@ -109,12 +109,14 @@
             margin: 50px 30px;
             padding: 20px;
             background-color: var(--standardcolor);
+            border-radius: 10px;
         }
 
         .box {
             flex: 1 0 200px;
             padding: 10px;
             background-color: var(--backgroundcolor);
+            border-radius: 20px;
         }
 
         .button-container {
@@ -129,21 +131,24 @@
         }
 
         #searchInput {
+            width: 20px;
             padding: 10px;
             font-size: 16px;
             border: 1px solid var(--accentcolor);
-            border-radius: 4px;
+            border-radius: 20px;
             margin: 5px;
+            align-items: right;
         }
 
-        #searchButton {
-            padding: 10px 15px;
+        #searchInput:focus,
+        #searchInput:hover {
+            width: 200px;
+            padding: 10px;
             font-size: 16px;
-            background-color: var(--accentcolor);
-            color: var(--textcolor);
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
+            border: 1px solid var(--accentcolor);
+            border-radius: 20px;
+            margin: 5px;
+
         }
     </style>
 </head>
@@ -157,8 +162,7 @@
             <a href="index.html">Home</a>
             <a href="contact.html">Contact Us</a>
             <a href="products.html">Products</a>
-            <input type="text" id="searchInput" placeholder="Suche..." />
-            <button id="searchButton">Suchen</button>
+            <input type="text" id="searchInput" placeholder="🔍 Klicken um zu suchen..." />
         </div>
         <div class="navbar-logo">
             <img src="Korb.png" alt="Logo">
