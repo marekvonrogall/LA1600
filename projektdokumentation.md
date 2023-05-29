@@ -117,8 +117,8 @@ Total:
 | 1.B  |   16.05.2023    | von Rogall    | 45            |    30               |
 | 1.C  |   16.05.2023    | von Rogall    | 40            |    40               |
 | 1.D  |   16.05.2023    | von Rogall    | 30            |    15               |
-| 1.E  |   16.05.2023    | Von Rogall    | 30            |                   |
-| 2.A  |       | von Rogall    | 45            |                   |
+| 1.E  |   23.05.2023    | Von Rogall    | 30            |    25               |
+| 2.A  |   23.05.23    | von Rogall    | 45            |      30             |
 | 2.B  |       |  Mitrovic  | 60            |                   |
 | 2.C  |       |   Mitrovic  | 45            |                   |
 | 2.D  |       |  Mitrovic   | 60            |                   |
