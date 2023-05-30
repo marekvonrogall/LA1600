@@ -145,10 +145,14 @@
             width: 200px;
             padding: 10px;
             font-size: 16px;
-            border: 1px solid var(--accentcolor);
+            border: 2px solid var(--accentcolor);
             border-radius: 20px;
             margin: 5px;
-
+        }
+        
+        #activePage
+        {
+            text-decoration: underline var(--accentcolor);
         }
     </style>
 </head>
@@ -159,7 +163,7 @@
             <img src="Logo.png" alt="Logo">
         </div>
         <div class="navbar-links">
-            <a href="index.html">Home</a>
+            <a href="index.html" id="activePage">Home</a>
             <a href="contact.html">Contact Us</a>
             <a href="products.html">Products</a>
             <input type="text" id="searchInput" placeholder="🔍 Klicken um zu suchen..." />
