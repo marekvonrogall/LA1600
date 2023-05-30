@@ -58,6 +58,7 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 | 7.4 |  Produktseite geöffnet            | Benutzer scrollt nach unten        |  Unter den Produktbildern soll der Name des Produkts angezeigt werden                |
 | 7.5 |  Produktseite geöffnet            | Benutzer scrollt nach unten        |  Unter den Produktbildern soll der Preis des Produkts angezeigt werden                |
 
+
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
