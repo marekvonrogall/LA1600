@@ -125,12 +125,12 @@ Total:
 | 2.D  |       |  Mitrovic   | 60            |                   |
 | 2.E  |  16.05.2023     |  Mitrovic   | 30            |       15 Min            |
 | 3.A  |       |   Mitrovic  | 60            |                   |
-| 3.B  |       |  | 45            |                   |
-| 3.C  |       |  | 30            |                   |
-| 4.A  |       |  | 60            |                   |
-| 5.A  |       |  | 30            |                   |
-| 6.A  |       |  | 45            |                   |
-| 6.B  |       |  | 60            |                   |
+| 3.B  |       | Atputharasa | 45            |                   |
+| 3.C  |       | Atputharasa | 30            |                   |
+| 4.A  |  16.05.2023        | Atputharasa | 60            |  45                 |
+| 5.A  |    16.05.2023      | Atputharasa | 30            |    45               |
+| 6.A  |       |Atputharasa  | 45            |                   |
+| 6.B  |       |Atputharasa  | 60            |                   |
 | 7.A  |       |        | 45            |                   |
 | 7.B  |       |        | 45            |                   |
 | 7.C  |       |        | 60            |                   |
