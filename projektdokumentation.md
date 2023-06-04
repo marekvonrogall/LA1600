@@ -132,6 +132,7 @@ Total:
 | 4.A  |  16.05.2023        | Atputharasa | 60            |  45                 |
 | 5.A  |    16.05.2023      | Atputharasa | 30            |    45               |
 |5.B   |04.06.2023|Mitrovic |45|45|
+|5.C   |04.06.2023|Mitrovic |30|30|
 | 6.A  |       |Atputharasa  | 45            |                   |
 | 6.B  |       |Atputharasa  | 60            |                   |
 | 7.A  |       |        | 45            |                   |
