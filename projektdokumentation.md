@@ -97,6 +97,9 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 | 7.C  |   23.5    |  Greub         |  Wenn der Benutzer über das Bild fährt, soll sich das Produkt auf dem Bildschirm drehen          |   60            |
 | 7.D  |   23.5    |  Greub         |  Unter den Bildern soll der Name des Produktes angezeigt werden          |   15            |
 | 7.E  |   23.5    |  Greub        |  Unter den Bildern soll ausserdem noch der Preis des Produktes angezeigt werden          |   15            |
+|8.A   |23.5       |Mitrovic       |Wenn der Benutzer auf "About Us" drückt öffnet sich eine neue Seite, auf der man viel über das Unternehmen erfahren kann |45|
+|8.B   |23.5       |Mitrovic       |Auf der About Us Seite soll es einen Text haben wie die Clothing-Brand enstanden ist.|20|
+|8.C   |23.5       |Mitrovic       |Auf der "About Us" Seite soll es einen Text haben, was die Clothing-Brand bietet. |20|
 
 
 
@@ -122,11 +125,11 @@ Total:
 | 1.D  |   16.05.2023    | von Rogall    | 30            |    15               |
 | 1.E  |   23.05.2023    | Von Rogall    | 30            |    25               |
 | 2.A  |   23.05.2023    | von Rogall    | 45            |      50             |
-| 2.B  |       |  Mitrovic  | 60            |                   |
-| 2.C  |  04.06.2023     |   Mitrovic  | 45            |        35           |
-| 2.D  |       |  Mitrovic   | 60            |                   |
-| 2.E  |  16.05.2023     |  Mitrovic   | 30            |       15 Min            |
-| 3.A  |       |   Mitrovic  | 60            |                   |
+| 2.B  |       |  Mitrovic  | 60 Min           |                   |
+| 2.C  |  04.06.2023     |   Mitrovic  | 45 Min           |        35 Min          |
+| 2.D  |       |  Mitrovic   | 60 Min           |                   |
+| 2.E  |  16.05.2023     |  Mitrovic   | 30 Min           |       15 Min            |
+| 3.A  |       |   Mitrovic  | 60 Min           |                   |
 | 3.B  |       | Atputharasa | 45            |                   |
 | 3.C  |       | Atputharasa | 30            |                   |
 | 4.A  |  16.05.2023        | Atputharasa | 60            |  45                 |
@@ -140,6 +143,9 @@ Total:
 | 7.C  |    30.05.2023   |    Greub    | 60            |        100 Min           |
 | 7.D  |    16.05.2023   |    Greub    | 15            |         15 Min          |
 | 7.E  |    16.05.2023   |    Greub    | 15            |       20 Min            |
+|8.A   |04.06            |Mitrovic     |45 MIn            |30 Min|
+|8.B   |04.06            |Mitrovic     |20 MIn            |10 Min|
+|8.C   |04.06            |Mitrovic     |20 Min         |10 Min|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
