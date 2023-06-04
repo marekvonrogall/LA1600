@@ -121,7 +121,7 @@ Total:
 | 1.E  |   23.05.2023    | Von Rogall    | 30            |    25               |
 | 2.A  |   23.05.2023    | von Rogall    | 45            |      50             |
 | 2.B  |       |  Mitrovic  | 60            |                   |
-| 2.C  |       |   Mitrovic  | 45            |                   |
+| 2.C  |  04.06.2023     |   Mitrovic  | 45            |        35           |
 | 2.D  |       |  Mitrovic   | 60            |                   |
 | 2.E  |  16.05.2023     |  Mitrovic   | 30            |       15 Min            |
 | 3.A  |       |   Mitrovic  | 60            |                   |
