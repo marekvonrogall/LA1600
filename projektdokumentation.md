@@ -88,6 +88,8 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 | 3.C  |   23.5    |  Atputharasa         |  Der Benutzer soll die Möglichkeit haben, die Filter zurückzusetzen          |   30            |
 | 4.A  |   23.5    |  Atputharasa         |  Die Webseite soll auf den Gebrauch am Smartphone optimiert werden  |     60 |
 | 5.A  |   23.5    |  Atputharasa         |  Ganz Unten auf der Seite sollen die Kontaktdaten angegeben werden           |  30             |
+| 5.B  |    23.5   |Filip Mitrovic        |Wenn der Benutzer auf "Contact us" klickt, öffnet sich eine neue Seite, auf der er seine Daten eingeben und uns kontaktieren kann.|
+|5.C   |23.5       |Filip Mitrovic        |Auf der "Contact us"-Seite sollte sich eine Infobox befinden, in der die Kontaktdaten über unser Unternehmen bereitgestellt werden.|
 | 6.A  |   23.5    |  Atputharasa         |  Unter dem Bild sollen neue Produkte zur Schau gestellt werden            |    45           |
 | 6.B  |   23.5    |  Atputharasa         |  Man soll sich bei den neuen Produkte von links nach rechts durchklicken können         |     60          |
 | 7.A  |   23.5    |  Greub         |  Wenn der Benutzer auf Produkte drückt soll die Seite mit den Produkten geöffnet werden           |    45           |
