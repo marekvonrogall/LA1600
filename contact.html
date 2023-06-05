@@ -56,25 +56,90 @@
         .info-box p {
             margin: 0;
         }
+
+        #progress-bar {
+            width: 0%;
+            height: 20px;
+            background-color: green;
+            transition: width 0.5s ease-in-out;
+        }
+
+        #message-container {
+            display: none;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f0f0f0;
+            color: #333;
+        }
     </style>
 </head>
 
 <body>
     <div class="container">
         <h1>Contact Us</h1>
-        <form action="submit.php" method="post">
+        <form action="submit.php" method="post" onsubmit="showMessage()">
             <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
+            <input type="text" id="name" name="name" required oninput="updateProgressBar()">
 
             <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
+            <input type="email" id="email" name="email" required oninput="updateProgressBar()">
 
             <label for="message">Message:</label>
-            <textarea id="message" name="message" required></textarea>
+            <textarea id="message" name="message" required oninput="updateProgressBar()"></textarea>
 
             <input type="submit" value="Submit">
         </form>
+
+        <div id="progress-bar"></div>
+
+        <div id="message-container">
+            <p id="message-text"></p>
+        </div>
+
+        <script>
+            function updateProgressBar() {
+                var name = document.getElementById("name").value;
+                var email = document.getElementById("email").value;
+                var message = document.getElementById("message").value;
+                var progress = calculateProgress(name, email, message);
+
+                var progressBar = document.getElementById("progress-bar");
+                progressBar.style.width = progress + "%";
+            }
+
+            function calculateProgress(name, email, message) {
+                var progress = 0;
+
+                if (name !== "") {
+                    progress += 33.33;
+                }
+
+                if (email !== "") {
+                    progress += 33.33;
+                }
+
+                if (message !== "") {
+                    progress += 33.33;
+                }
+
+                return progress;
+            }
+
+            function showMessage() {
+                event.preventDefault(); // Prevent form submission
+
+                var messageContainer = document.getElementById("message-container");
+                var messageText = document.getElementById("message-text");
+
+                messageContainer.style.display = "block";
+                messageText.textContent = "Ihre Nachricht wurde gesendet, wir werden uns so schnell wie möglich bei Ihnen melden!";
+            }
+        </script>
+
+
     </div>
+    </div>
+
 
     <div class="info-box">
         <h2>Information</h2>
