@@ -127,7 +127,7 @@ Total:
 | 2.A  |   23.05.2023    | von Rogall    | 45            |      50             |
 | 2.B  |       |  Mitrovic  | 60 Min           |                   |
 | 2.C  |  04.06.2023     |   Mitrovic  | 45 Min           |        35 Min          |
-| 2.D  |       |  Mitrovic   | 60 Min           |                   |
+| 2.D  |   05.06    |  Mitrovic   | 60 Min           |      50 MIn          |
 | 2.E  |  16.05.2023     |  Mitrovic   | 30 Min           |       15 Min            |
 | 3.A  |       |   Mitrovic  | 60 Min           |                   |
 | 3.B  |       | Atputharasa | 45            |                   |
