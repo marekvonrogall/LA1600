@@ -119,32 +119,32 @@ Total:
 
 | AP-№ | Datum | Zuständig   | geplante Zeit | tatsächliche Zeit |
 |------|-------|-------------|---------------|-------------------|
-| 1.A  |   16.05.2023    | von Rogall    | 30            |    25               |
-| 1.B  |   16.05.2023    | von Rogall    | 45            |    30               |
-| 1.C  |   16.05.2023    | von Rogall    | 40            |    40               |
-| 1.D  |   16.05.2023    | von Rogall    | 30            |    15               |
-| 1.E  |   23.05.2023    | Von Rogall    | 30            |    25               |
-| 2.A  |   23.05.2023    | von Rogall    | 45            |      50             |
+| 1.A  |   16.05.2023    | von Rogall    | 30   Min         |    25  Min             |
+| 1.B  |   16.05.2023    | von Rogall    | 45  Min          |    30  Min             |
+| 1.C  |   16.05.2023    | von Rogall    | 40 Min           |    40  Min             |
+| 1.D  |   16.05.2023    | von Rogall    | 30  Min          |    15  Min             |
+| 1.E  |   23.05.2023    | Von Rogall    | 30 Min           |    25  Min             |
+| 2.A  |   23.05.2023    | von Rogall    | 45 Min           |      50 Min            |
 | 2.B  |       |  Mitrovic  | 60 Min           |                   |
 | 2.C  |  04.06.2023     |   Mitrovic  | 45 Min           |        35 Min          |
 | 2.D  |   05.06    |  Mitrovic   | 60 Min           |      50 MIn          |
 | 2.E  |  16.05.2023     |  Mitrovic   | 30 Min           |       15 Min            |
 | 3.A  |       |   Mitrovic  | 60 Min           |                   |
-| 3.B  |       | Atputharasa | 45            |                   |
-| 3.C  |       | Atputharasa | 30            |                   |
-| 4.A  |  16.05.2023        | Atputharasa | 60            |  45                 |
-| 5.A  |    16.05.2023      | Atputharasa | 30            |    45               |
+| 3.B  |       | Atputharasa | 45   Min         |                   |
+| 3.C  |       | Atputharasa | 30 Min           |                   |
+| 4.A  |  16.05.2023        | Atputharasa | 60 Min            |  45 Min                |
+| 5.A  |    16.05.2023      | Atputharasa | 30 Min           |    45 Min             |
 |5.B   |04.06.2023|Mitrovic |45|45|
 |5.C   |04.06.2023|Mitrovic |30|30|
 | 6.A  |       |Atputharasa  | 45            |                   |
 | 6.B  |       |Atputharasa  | 60            |                   |
-| 7.A  |       |        | 45            |                   |
-| 7.B  |    30.05.2023   |    Greub    | 45            |        60 Min           |
-| 7.C  |    30.05.2023   |    Greub    | 60            |        100 Min           |
-| 7.D  |    16.05.2023   |    Greub    | 15            |         15 Min          |
-| 7.E  |    16.05.2023   |    Greub    | 15            |       20 Min            |
-|8.A   |04.06            |Mitrovic     |45 MIn            |30 Min|
-|8.B   |04.06            |Mitrovic     |20 MIn            |10 Min|
+| 7.A  |       |   Greub     | 45            |                   |
+| 7.B  |    30.05.2023   |    Greub    | 45 Min           |        60 Min           |
+| 7.C  |    30.05.2023   |    Greub    | 60 Min           |        100 Min           |
+| 7.D  |    16.05.2023   |    Greub    | 15  min          |         15 Min          |
+| 7.E  |    16.05.2023   |    Greub    | 15  Min          |       20 Min            |
+|8.A   |04.06            |Mitrovic     |45 Min            |30 Min|
+|8.B   |04.06            |Mitrovic     |20 Min            |10 Min|
 |8.C   |04.06            |Mitrovic     |20 Min         |10 Min|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
