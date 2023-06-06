@@ -80,10 +80,9 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 | 1.D  |   23.5    |  von Rogall         |  Auf dem Header soll ausserdem noch ein Home, Contact Us und Products Button vorhanden sein           |     30          |
 | 1.E  |   23.5    |  von Rogall         |  Der Header soll ausserdem noch ein Such- und Warenkorbsymbol zeigen           |    30           |
 | 2.A  |   23.5    |  von Rogall         |  Benutzer soll auf das Suchsymbol klicken können um die Suche zu öffnen          |   45            |
-| 2.B  |   23.5    |  Mitrovic         |  Bei der Suche sollen nach der Eingabe die passenden Produkte angezeigt werden          |   60            |
-| 2.C  |   23.5    |  Mitrovic         |  Wenn auf das X bei der Suche gedrückt wird, soll die Eingabe gelöscht werden	|   45            |
-| 2.D  |   23.5    |  Mitrovic         |  Wenn bei der Suche etwas eingegeben wird, sollen Vorschläge angezeigt werden          |     60          |
-| 2.E  |   23.5    |  Mitrovic         |  In der Suchleiste soll ein kleiner Text angezeigt werden          |   30            |
+| 2.B |   23.5    |  Mitrovic         |  Wenn auf das X bei der Suche gedrückt wird, soll die Eingabe gelöscht werden	|   45            |
+| 2.C  |   23.5    |  Mitrovic         |  Wenn bei der Suche etwas eingegeben wird, sollen Vorschläge angezeigt werden          |     60          |
+| 2.D  |   23.5    |  Mitrovic         |  In der Suchleiste soll ein kleiner Text angezeigt werden          |   30            |
 | 3.A  |   23.5    |  Mitrovic         |  Es soll das Fenster zum Filtern geöffnet werden, wenn der Benutzer auf Produkte drückt          |   60            |
 | 3.B  |   23.5    |  Atputharasa         |  Es sollen verschiede Filter erstellt werden mit Hilfe von Checkboxen          |   45            |
 | 3.C  |   23.5    |  Atputharasa         |  Der Benutzer soll die Möglichkeit haben, die Filter zurückzusetzen          |   30            |
@@ -119,10 +118,9 @@ Total:
 | 1.D  |   16.05.2023    | von Rogall    | 30  Min          |    15  Min             |
 | 1.E  |   23.05.2023    | Von Rogall    | 30 Min           |    25  Min             |
 | 2.A  |   23.05.2023    | von Rogall    | 45 Min           |      50 Min            |
-| 2.B  |       |  Mitrovic  | 60 Min           |                   |
-| 2.C  |  04.06.2023     |   Mitrovic  | 45 Min           |        35 Min          |
-| 2.D  |   05.06.2023    |  Mitrovic   | 60 Min           |      50 MIn          |
-| 2.E  |  16.05.2023     |  Mitrovic   | 30 Min           |       15 Min            |
+| 2.B  |  04.06.2023     |   Mitrovic  | 45 Min           |        35 Min          |
+| 2.C  |   05.06.2023    |  Mitrovic   | 60 Min           |      50 MIn          |
+| 2.D  |  16.05.2023     |  Mitrovic   | 30 Min           |       15 Min            |
 | 3.A  |       |   Mitrovic  | 60 Min           |                   |
 | 3.B  |       | Atputharasa | 45 Min         |                   |
 | 3.C  |       | Atputharasa | 30 Min           |                   |
