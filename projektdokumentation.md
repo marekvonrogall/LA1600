@@ -8,7 +8,8 @@ Gruppenmitglieder: von Rogall, Atputharasa, Greub und Mitrovic
 | ----- | ------- | ------------------------------------------------------------ |
 | 9.5.23      | 0.0.1   | Dokumentation angefangen und Schritte 1.1, 1.2, 1.4 ausgefüllt. |
 | 16.5.23      | 0.0.2    |     Erweiterung der Dokumentation und Realisieren begonnen                           |
-| 23.5.23      | 1.0.0   |                                                              |
+| 23.5.23      | 1.0.0   |    Header mit Suchleiste erstellt, Startseite erstellt                                                          |
+| 30.5.23      | 1.0.1   |    Produktseite begonnen, Startseite weiter verbessert                                                          |
 
 ## 1 Informieren
 
@@ -102,18 +103,11 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 |8.C   |23.5       |Mitrovic       |Auf der "About Us" Seite soll es einen Text haben, was die Clothing-Brand bietet. |20|
 
 
-
-
-
 Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+
 
 ## 4 Realisieren
 
@@ -147,7 +141,7 @@ Total:
 |8.B   |04.06.2023            |Mitrovic     |20 Min            |10 Min|
 |8.C   |04.06.2023|Mitrovic     |20 Min         |10 Min|
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
@@ -156,8 +150,6 @@ Total:
 | 1.1  |       |          |        |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+
