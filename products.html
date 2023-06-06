@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Products</title>
+    <title>Online Shop</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue">
     <style>
         :root {
@@ -11,53 +11,6 @@
             --accentcolor: #DCE6CA;
             --textcolor: #2b2b2b;
             --backgroundcolor: #ffffff;
-            --borderradius: 20px;
-        }
-
-        .product {
-            display: flex;
-            justify-content: space-between;
-        }
-
-        .product-item {
-            flex-basis: 30%;
-            padding: 20px;
-            background-color: var(--accentcolor);
-            text-align: center;
-            margin: 10px;
-            border-radius: var(--borderradius);
-        }
-
-        .product-item img {
-            width: 250px;
-            height: 250px;
-            object-fit: cover;
-            border-radius: var(--borderradius);
-            transition: transform 0.3s;
-        }
-
-        .product-item:hover img {
-            transform: rotateY(-180deg);
-        }
-
-        .product-item .product-item-content {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            width: 100%;
-            height: 100%;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-            opacity: 0;
-            transition: opacity 0.3s;
-        }
-
-        .product-item:hover .product-item-content {
-            opacity: 1;
         }
 
         body {
@@ -94,50 +47,10 @@
 
         .navbar-links a {
             text-decoration: none;
-            color: #333;
-            margin: 0 10px;
-        }
-
-        #ÜberUns {
-            text-align: center;
             color: var(--textcolor);
-        }
-
-        img {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 40%;
-        }
-
-        .container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            align-content: start;
-            gap: 10px;
-            margin: 50px 30px;
-            padding: 20px;
-            background-color: var(--standardcolor);
-            border-radius: 10px;
-        }
-
-        .box {
-            flex: 1 0 200px;
-            padding: 10px;
-            background-color: var(--backgroundcolor);
-            border-radius: 20px;
-        }
-
-        .button-container {
-            margin-top: 10px;
-            width: 100%;
-            text-align: center;
-        }
-
-        #P_name,
-        #P_price {
-            color: var(--textcolor)
+            margin: 10px;
+            font-size: 18px;
+            font-weight: bold;
         }
 
         #searchInput {
@@ -160,8 +73,76 @@
             margin: 5px;
         }
 
+        #suggestions {
+            position: absolute;
+            top: calc(100% + 5px);
+            left: 0;
+            right: 0;
+            background-color: white;
+            border: 1px solid var(--accentcolor);
+            border-radius: 5px;
+            padding: 5px;
+        }
+
+        .suggestion {
+            padding: 5px;
+            cursor: pointer;
+        }
+
+        .suggestion:hover {
+            background-color: var(--accentcolor);
+            color: white;
+        }
+
+
         #activePage {
             text-decoration: underline var(--accentcolor);
+        }
+
+        #wrapper {
+            margin-top: 100px;
+            margin-right: 30px;
+            margin-left: 0px;
+            margin-bottom: 30px;
+            align-items: center;
+            flex-grow: 1;
+            border: 1px solid red;
+            overflow: hidden;
+        }
+
+        #image {
+            height: auto;
+            width: 400px;
+            border-radius: 10px;
+
+        }
+
+        #Name {
+            text-align: center;
+        }
+
+        #Preis {
+            margin-top: -11px;
+            text-align: center;
+        }
+
+        .box {
+            float: left;
+            width: 400px;
+            height: 440px;
+            padding: 10px;
+            background-color: white;
+            margin: 10px;
+            border: 10px solid var(--standardcolor);
+            border-radius: 20px;
+        }
+
+        .product-img img {
+            transition: transform 0.3s;
+        }
+
+        .product-img:hover img {
+            transform: rotateY(-180deg);
         }
     </style>
 </head>
@@ -172,116 +153,117 @@
             <img src="Logo.png" alt="Logo">
         </div>
         <div class="navbar-links">
-            <a href="index.html">Home</a>
+            <a href="index.html" id="activePage">Home</a>
             <a href="contact.html">Contact Us</a>
-            <a href="products.html" id="activePage">Products</a>
+            <a href="products.html">Products</a>
+            <a href="About-Us.html">About Us</a>
             <input type="text" id="searchInput" placeholder="🔍 Klicken um zu suchen..." />
-            <script>
-                const searchInput = document.getElementById("searchInput");
-                const suggestionsContainer = document.getElementById("suggestions");
-
-                // Vorschlagsliste
-                const suggestions = ["Hosen", "T-Shirt"];
-
-                // Funktion zum Anzeigen der Vorschläge
-                function showSuggestions() {
-                    const userInput = searchInput.value.toLowerCase();
-                    const filteredSuggestions = suggestions.filter(suggestion =>
-                        suggestion.toLowerCase().startsWith(userInput)
-                    );
-
-                    suggestionsContainer.innerHTML = "";
-                    filteredSuggestions.forEach(suggestion => {
-                        const suggestionElement = document.createElement("div");
-                        suggestionElement.textContent = suggestion;
-                        suggestionElement.classList.add("suggestion");
-                        suggestionElement.addEventListener("click", () => {
-                            searchInput.value = suggestion;
-                            suggestionsContainer.innerHTML = "";
-                        });
-                        suggestionsContainer.appendChild(suggestionElement);
-                    });
-                }
-
-                // Event-Handler für die Eingabeüberwachung
-                searchInput.addEventListener("input", showSuggestions);
-
-            </script>
         </div>
         <div class="navbar-logo">
             <img src="Korb.png" alt="Logo">
         </div>
     </div>
-    
-    <div class="product">
-        <div class="product-item">
-            <img src="product1.jpg" alt="Produkt 1">
-            <h3>Hose 1</h3>
-            <p>Beschreibung des Produkts 1</p>
-        </div>
-        <div class="product-item">
-            <img src="product2.jpg" alt="Produkt 2">
-            <h3>T-Shirt 1</h3>
-            <p>Beschreibung des Produkts 2</p>
-        </div>
-        <div class="product-item">
-            <img src="product3.jpg" alt="Produkt 3">
-            <h3>T-Shirt 2</h3>
-            <p>Beschreibung des Produkts 3</p>
-        </div>
-    </div>
 
-    <div class="product">
-        <div class="product-item">
-            <img src="product1.jpg" alt="Produkt 1">
-            <h3>Hose 1</h3>
-            <p>Beschreibung des Produkts 1</p>
+    <div id="wrapper">
+
+        <div class="box" id="Produkt 1">
+
+            <a href="product1.html">
+                <div class="product-img">
+                    <img src="https://i.pinimg.com/originals/93/3e/b2/933eb2e59bf5f05f203743c0360141a7.jpg" id="image"
+                        alt="Produkt 1">
+                </div>
+            </a>
+
+            <h3 id="Name">Produkt 1</h3>
+            <p id="Preis">Preis: 999,99€</p>
+
         </div>
-        <div class="product-item">
-            <img src="product2.jpg" alt="Produkt 2">
-            <h3>T-Shirt 1</h3>
-            <p>Beschreibung des Produkts 2</p>
+
+        <div class="box" id="Produkt 1">
+
+            <a href="product1.html">
+                <div class="product-img">
+                    <img src="https://i.pinimg.com/originals/93/3e/b2/933eb2e59bf5f05f203743c0360141a7.jpg" id="image"
+                        alt="Produkt 1">
+                </div>
+            </a>
+
+            <h3 id="Name">Produkt 1</h3>
+            <p id="Preis">Preis: 2,99€</p>
+
         </div>
-        <div class="product-item">
-            <img src="product3.jpg" alt="Produkt 3">
-            <h3>T-Shirt 2</h3>
-            <p>Beschreibung des Produkts 3</p>
+
+        <div class="box" id="Produkt 1">
+
+            <a href="product1.html">
+                <div class="product-img">
+                    <img src="https://i.pinimg.com/originals/93/3e/b2/933eb2e59bf5f05f203743c0360141a7.jpg" id="image"
+                        alt="Produkt 1">
+                </div>
+            </a>
+
+            <h3 id="Name">Produkt 1</h3>
+            <p id="Preis">Preis: 999,99€</p>
+
         </div>
+
+        <div class="box" id="Produkt 1">
+
+            <a href="product1.html">
+                <div class="product-img">
+                    <img src="https://i.pinimg.com/originals/93/3e/b2/933eb2e59bf5f05f203743c0360141a7.jpg" id="image"
+                        alt="Produkt 1">
+                </div>
+            </a>
+
+            <h3 id="Name">Produkt 1</h3>
+            <p id="Preis">Preis: 999,99€</p>
+
+        </div>
+
+        <div class="box" id="Produkt 1">
+
+            <a href="product1.html">
+                <div class="product-img">
+                    <img src="https://i.pinimg.com/originals/93/3e/b2/933eb2e59bf5f05f203743c0360141a7.jpg" id="image"
+                        alt="Produkt 1">
+                </div>
+            </a>
+
+            <h3 id="Name">Produkt 1</h3>
+            <p id="Preis">Preis: 999,99€</p>
+
+        </div>
+
+        <div class="box" id="Produkt 1">
+
+            <a href="product1.html">
+                <div class="product-img">
+                    <img src="https://i.pinimg.com/originals/93/3e/b2/933eb2e59bf5f05f203743c0360141a7.jpg" id="image"
+                        alt="Produkt 1">
+                </div>
+            </a>
+
+            <h3 id="Name">Produkt 1</h3>
+            <p id="Preis">Preis: 999,99€</p>
+
+        </div>
+
+        <div class="box" id="Produkt 1">
+
+            <a href="product1.html">
+                <div class="product-img">
+                    <img src="https://i.pinimg.com/originals/93/3e/b2/933eb2e59bf5f05f203743c0360141a7.jpg" id="image"
+                        alt="Produkt 1">
+                </div>
+            </a>
+
+            <h3 id="Name">Produkt 1</h3>
+            <p id="Preis">Preis: 999,99€</p>
+
+        </div>
+
     </div>
-    <div class="product">
-        <div class="product-item">
-            <img src="product1.jpg" alt="Produkt 1">
-            <h3>Hose 1</h3>
-            <p>Beschreibung des Produkts 1</p>
-        </div>
-        <div class="product-item">
-            <img src="product2.jpg" alt="Produkt 2">
-            <h3>T-Shirt 1</h3>
-            <p>Beschreibung des Produkts 2</p>
-        </div>
-        <div class="product-item">
-            <img src="product3.jpg" alt="Produkt 3">
-            <h3>T-Shirt 2</h3>
-            <p>Beschreibung des Produkts 3</p>
-        </div>
-    </div>
-    <div class="product">
-        <div class="product-item">
-            <img src="product1.jpg" alt="Produkt 1">
-            <h3>Hose 1</h3>
-            <p>Beschreibung des Produkts 1</p>
-        </div>
-        <div class="product-item">
-            <img src="product2.jpg" alt="Produkt 2">
-            <h3>T-Shirt 1</h3>
-            <p>Beschreibung des Produkts 2</p>
-        </div>
-        <div class="product-item">
-            <img src="product3.jpg" alt="Produkt 3">
-            <h3>T-Shirt 2</h3>
-            <p>Beschreibung des Produkts 3</p>
-        </div>
-    </div>
-</body>
 
 </html>
