@@ -116,7 +116,7 @@ Total:
 | 1.B  |   16.05.2023    | von Rogall    | 45  Min          |    30  Min             |
 | 1.C  |   16.05.2023    | von Rogall    | 40 Min           |    40  Min             |
 | 1.D  |   16.05.2023    | von Rogall    | 30  Min          |    15  Min             |
-| 1.E  |   23.05.2023    | Von Rogall    | 30 Min           |    25  Min             |
+| 1.E  |   23.05.2023    | von Rogall    | 30 Min           |    25  Min             |
 | 2.A  |   23.05.2023    | von Rogall    | 45 Min           |      50 Min            |
 | 2.B  |  04.06.2023     |   Mitrovic  | 45 Min           |        35 Min          |
 | 2.C  |   05.06.2023    |  Mitrovic   | 60 Min           |      50 MIn          |
