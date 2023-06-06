@@ -10,6 +10,7 @@ Gruppenmitglieder: von Rogall, Atputharasa, Greub und Mitrovic
 | 16.5.23      | 0.0.2    |     Erweiterung der Dokumentation und Realisieren begonnen                           |
 | 23.5.23      | 1.0.0   |    Header mit Suchleiste erstellt, Startseite erstellt                                                          |
 | 30.5.23      | 1.0.1   |    Produktseite begonnen, Startseite weiter verbessert                                                          |
+| 06.6.23      | 1.0.2   |    Produkt, About us und Contact us-Seiten erweitert und verbessert                                                         |
 
 ## 1 Informieren
 
@@ -121,9 +122,9 @@ Total:
 | 2.B  |  04.06.2023     |   Mitrovic  | 45 Min           |        35 Min          |
 | 2.C  |   05.06.2023    |  Mitrovic   | 60 Min           |      50 MIn          |
 | 2.D  |  16.05.2023     |  Mitrovic   | 30 Min           |       15 Min            |
-| 3.A  |       |   Mitrovic  | 60 Min           |                   |
-| 3.B  |       | Atputharasa | 45 Min         |                   |
-| 3.C  |       | Atputharasa | 30 Min           |                   |
+| 3.A  |   06.06.2023    |   Mitrovic  | 60 Min           |      40 Min             |
+| 3.B  |  06.06.2023     | Atputharasa | 45 Min         |     40 Min              |
+| 3.C  |   06.06.2023    | Atputharasa | 30 Min           |   30 Min                |
 | 4.A  |  16.05.2023        | Atputharasa | 60 Min            |  45 Min                |
 | 5.A  |    16.05.2023      | Atputharasa | 30 Min           |    45 Min             |
 |5.B   |04.06.2023|Mitrovic |45 Min |45 Min|
