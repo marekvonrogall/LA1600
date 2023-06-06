@@ -176,6 +176,37 @@
             <a href="contact.html">Contact Us</a>
             <a href="products.html" id="activePage">Products</a>
             <input type="text" id="searchInput" placeholder="🔍 Klicken um zu suchen..." />
+            <script>
+                const searchInput = document.getElementById("searchInput");
+                const suggestionsContainer = document.getElementById("suggestions");
+
+                // Vorschlagsliste
+                const suggestions = ["Hosen", "T-Shirt"];
+
+                // Funktion zum Anzeigen der Vorschläge
+                function showSuggestions() {
+                    const userInput = searchInput.value.toLowerCase();
+                    const filteredSuggestions = suggestions.filter(suggestion =>
+                        suggestion.toLowerCase().startsWith(userInput)
+                    );
+
+                    suggestionsContainer.innerHTML = "";
+                    filteredSuggestions.forEach(suggestion => {
+                        const suggestionElement = document.createElement("div");
+                        suggestionElement.textContent = suggestion;
+                        suggestionElement.classList.add("suggestion");
+                        suggestionElement.addEventListener("click", () => {
+                            searchInput.value = suggestion;
+                            suggestionsContainer.innerHTML = "";
+                        });
+                        suggestionsContainer.appendChild(suggestionElement);
+                    });
+                }
+
+                // Event-Handler für die Eingabeüberwachung
+                searchInput.addEventListener("input", showSuggestions);
+
+            </script>
         </div>
         <div class="navbar-logo">
             <img src="Korb.png" alt="Logo">
