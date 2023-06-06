@@ -47,6 +47,8 @@
             padding: 10px;
             margin-bottom: 20px;
             border-radius: 5px;
+            margin-right: 50px;
+            margin-left: 50px;
         }
 
         .info-box h2 {
@@ -71,10 +73,75 @@
             background-color: #f0f0f0;
             color: #333;
         }
+
+        :root {
+            --standardcolor: #C9DBC1;
+            --accentcolor: #DCE6CA;
+            --textcolor: #2b2b2b;
+            --backgroundcolor: #ffffff;
+        }
+
+        body {
+            font-family: "Bebas+Neue", sans-serif;
+            background-color: var(--backgroundcolor);
+            width: 100%;
+            margin: 0;
+        }
+
+        .navbar {
+            background-color: #f2f2f2;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 999;
+        }
+
+        .navbar-logo {
+            width: 100px;
+            margin-left: 5px;
+            margin-right: 20px;
+        }
+
+        .navbar-links {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-grow: 1;
+        }
+
+        .navbar-links a {
+            text-decoration: none;
+            color: var(--textcolor);
+            margin: 10px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        #activePage {
+            text-decoration: underline var(--accentcolor);
+        }
     </style>
 </head>
 
 <body>
+    <div class="navbar">
+        <div class="navbar-logo">
+            <img src="Logo.png" alt="Logo">
+        </div>
+        <div class="navbar-links">
+            <a href="index.html">Home</a>
+            <a href="contact.html" id="activePage">Contact Us</a>
+            <a href="products.html">Products</a>
+            <a href="About-Us.html">About Us</a>
+        </div>
+        <div class="navbar-logo">
+            <img src="Korb.png" alt="Logo">
+        </div>
+    </div>
     <div class="container">
         <h1>Contact Us</h1>
         <form action="submit.php" method="post" onsubmit="showMessage()">
