@@ -136,9 +136,9 @@ Total:
 | 5.A  |    16.05.2023      | Atputharasa | 30 Min           |    45 Min             |
 |5.B   |04.06.2023|Mitrovic |45 Min |45 Min|
 |5.C   |04.06.2023|Mitrovic |30 Min |30 Min |
-| 6.A  |       |Atputharasa  | 45            |                   |
-| 6.B  |       |Atputharasa  | 60            |                   |
-| 7.A  |       |   Greub     | 45            |                   |
+| 6.A  |       |Atputharasa  | 45 Min           |                   |
+| 6.B  |       |Atputharasa  | 60 Min           |                   |
+| 7.A  |       |   Greub     | 45 Min           |                   |
 | 7.B  |    30.05.2023   |    Greub    | 45 Min           |        60 Min           |
 | 7.C  |    30.05.2023   |    Greub    | 60 Min           |        100 Min           |
 | 7.D  |    16.05.2023   |    Greub    | 15  min          |         15 Min          |
