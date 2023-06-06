@@ -125,6 +125,7 @@
             text-align: center;
         }
 
+
         .box {
             float: left;
             width: 400px;
@@ -142,6 +143,23 @@
 
         .product-img:hover img {
             transform: rotateY(-180deg);
+        }
+
+        #Filter:checked~#hose {
+            Display: block;
+        }
+
+        #hose {
+            display: none;
+        }
+
+        #Filter2:checked~#T-Shirt {
+            Display: block;
+        }
+
+        #T-Shirt {
+
+            display: none;
         }
     </style>
 </head>
@@ -165,7 +183,14 @@
 
     <div id="wrapper">
 
-        <div class="box" id="Produkt 1">
+        <Input id="Filter" type="checkbox" checked />
+        <label for="Filter">Hosen</label>
+
+        <Input id="Filter2" type="checkbox" checked />
+        <label for="Filter2">T-Shirts</label>
+
+
+        <div class="box" id="hose">
 
             <a href="product1.html">
                 <div class="product-img">
@@ -173,12 +198,12 @@
                 </div>
             </a>
 
-            <h3 id="Name">Produkt 1</h3>
+            <h3 id="Name">Jeans 1</h3>
             <p id="Preis">Preis: 999,99€</p>
 
         </div>
 
-        <div class="box" id="Produkt 1">
+        <div class="box" id="T-Shirt">
 
             <a href="product1.html">
                 <div class="product-img">
@@ -186,12 +211,12 @@
                 </div>
             </a>
 
-            <h3 id="Name">Produkt 1</h3>
+            <h3 id="Name">T-Shirt Weiss</h3>
             <p id="Preis">Preis: 2,99€</p>
 
         </div>
 
-        <div class="box" id="Produkt 1">
+        <div class="box" id="T-Shirt">
 
             <a href="product1.html">
                 <div class="product-img">
@@ -199,12 +224,12 @@
                 </div>
             </a>
 
-            <h3 id="Name">Produkt 1</h3>
+            <h3 id="Name">T-Shirt rot</h3>
             <p id="Preis">Preis: 999,99€</p>
 
         </div>
 
-        <div class="box" id="Produkt 1">
+        <div class="box" id="hose">
 
             <a href="product1.html">
                 <div class="product-img">
@@ -212,12 +237,12 @@
                 </div>
             </a>
 
-            <h3 id="Name">Produkt 1</h3>
+            <h3 id="Name">Jeans 2</h3>
             <p id="Preis">Preis: 999,99€</p>
 
         </div>
 
-        <div class="box" id="Produkt 1">
+        <div class="box" id="T-Shirt">
 
             <a href="product1.html">
                 <div class="product-img">
@@ -225,12 +250,12 @@
                 </div>
             </a>
 
-            <h3 id="Name">Produkt 1</h3>
+            <h3 id="Name">T-Shirt weiss</h3>
             <p id="Preis">Preis: 999,99€</p>
 
         </div>
 
-        <div class="box" id="Produkt 1">
+        <div class="box" id="T-Shirt">
 
             <a href="product1.html">
                 <div class="product-img">
@@ -238,12 +263,12 @@
                 </div>
             </a>
 
-            <h3 id="Name">Produkt 1</h3>
+            <h3 id="Name">T-Shirt rot</h3>
             <p id="Preis">Preis: 999,99€</p>
 
         </div>
 
-        <div class="box" id="Produkt 1">
+        <div class="box" id="hose">
 
             <a href="product1.html">
                 <div class="product-img">
@@ -251,7 +276,7 @@
                 </div>
             </a>
 
-            <h3 id="Name">Produkt 1</h3>
+            <h3 id="Name">Jeans</h3>
             <p id="Preis">Preis: 999,99€</p>
 
         </div>
