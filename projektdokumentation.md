@@ -144,10 +144,36 @@ Total:
 
 ## 5 Kontrollieren
 
+### 5.1 Testprotokoll
+
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |    13.06.2023   |     Funktioniert     |  Mitrovic      |
+| 1.2  |     13.06.2023  |    Funktioniert      |   Mitrovic     |
+| 1.3  |     13.06.2023   |     Funktioniert     |    Mitrovic    |
+| 1.4  |     13.06.2023   |      Funktioniert    |    Mitrovic    |
+| 1.5  |    13.06.2023    |       Funktioniert   |    Mitrovic    |
+| 2.1  |    13.06.2023    |     Funktioniert     |    Mitrovic    |
+| 2.2  |    13.06.2023    |    Funktioniert nicht      |    Mitrovic    |
+| 2.3  |    13.06.2023    |      Funktioniert   |    Mitrovic   |
+| 2.4  |    13.06.2023    |    Funktioniert      |    Mitrovic   |
+| 2.5  |    13.06.2023    |   Funktioniert       |   Mitrovic    |
+| 3.1  |     13.06.2023   |     Funktioniert     |   Mitrovic    |
+| 3.2  |     13.06.2023   |      Funktioniert    |   Mitrovic     |
+| 3.3  |     13.06.2023   |   Funktioniert       |   Mitrovic     |
+| 4.1  |     13.06.2023   |    Funktioniert      |   Mitrovic     |
+| 5.1  |      13.06.2023  |     Funktioniert     |   Mitrovic    |
+| 6.1  |      13.06.2023  |     Funktioniert     |   Mitrovic     |
+| 6.2  |      13.06.2023  |     Funktioniert     |   Mitrovic     |
+| 7.1  |      13.06.2023  |     Funktioniert     |   Mitrovic     |
+| 7.2  |      13.06.2023  |     Funktioniert     |   Mitrovic     |
+| 7.3  |      13.06.2023  |     Funktioniert nicht     |   Mitrovic     |
+| 7.4  |      13.06.2023  |     Funktioniert     |   Mitrovic     |
+| 7.5  |      13.06.2023  |     Funktioniert     |   Mitrovic     |
+
+`Fazit:`
+
+Wir sind stolz darauf, dass wir unsere Clothing-Brand-Website erfolgreich gemäß unseren Wünschen umgesetzt haben. Als Gruppe haben wir dieses Projekt erfolgreich abgeschlossen. Die meisten unserer Anforderungen konnten wir erfolgreich erfüllen. Leider gab es jedoch einen kleinen Teil, bei dem wir keinen Erfolg hatten.
 
 ## 6 Auswerten
 
