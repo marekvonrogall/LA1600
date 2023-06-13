@@ -28,8 +28,7 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 |3|muss|funktional|Als User möchte ich ein Filter haben, damit ich ein Vorschau zu den Produkten habe und diese schneller finde.|
 |4|muss|Qualität|Als User möchte ich dass die Webseite für den Gebrauch am Telefon optimiert ist, damit sich ein Benutzer am Handy besser zurecht finden. |
 |5|muss|funktional|Als User möchte ich die Kontankangaben des Betreibers sehen, damit ich diesen kontaktieren kann. |
-|6|muss|Qualität|Als User möchte ich die neuesten Produkte direkt sehen, damit ich direkt auf dem neuesten Stand bin. |
-|7|muss|funktional|Als User möchte ich eine Seite mit allen Produkten haben, damit ich alle Produkte direkt sehen kann.|
+|6|muss|funktional|Als User möchte ich eine Seite mit allen Produkten haben, damit ich alle Produkte direkt sehen kann.|
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -53,13 +52,11 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 | 3.3 |  Produktseite geöffnet, Filter angewendet            | Benutzer klickt auf X        |   Filter werden zurückgesetzt                |
 | 4.1 |  (Am Handy) Browser geöffnet        | Webseite wird geöffnet                    | Es soll ein für das Handy optimierte Design angezeigt werden |
 | 5.1 |  Startseite geöffnet            | Es wird auf About Us geklickt        |   Es soll heruntergescrollt und die _About Us_ Sektion angezeigt werden                |
-| 6.1 |  Startseite geöffnet            | Benutzer scrollt nach unten        |   Neue Produkte Sektion soll zusehen sein                |
-| 6.2 |  Startseite geöffnet, Neue Produkte sichtbar            | Es wird auf den rechten Pfeil gedrückt        |   Es werden mehr neue Produkte angezeigt                |
-| 7.1 |  Startseite geöffnet            | Es wird auf Produkte geklickt        |   Seite mit den Produkten soll geöffnet werden                |
-| 7.2 |  Startseite geöffnet            | Es wird auf Produkte geklickt        |   Es sollen alle Produkte angezeigt werden                |
-| 7.3 |  Produktseite geöffnet            | Benutzer fährt über das Produktbild        |   Entsprechendes Bild soll sich drehen                |
-| 7.4 |  Produktseite geöffnet            | Benutzer scrollt nach unten        |  Unter den Produktbildern soll der Name des Produkts angezeigt werden                |
-| 7.5 |  Produktseite geöffnet            | Benutzer scrollt nach unten        |  Unter den Produktbildern soll der Preis des Produkts angezeigt werden                |
+| 6.1 |  Startseite geöffnet            | Es wird auf Produkte geklickt        |   Seite mit den Produkten soll geöffnet werden                |
+| 6.2 |  Startseite geöffnet            | Es wird auf Produkte geklickt        |   Es sollen alle Produkte angezeigt werden                |
+| 6.3 |  Produktseite geöffnet            | Benutzer fährt über das Produktbild        |   Entsprechendes Bild soll sich drehen                |
+| 6.4 |  Produktseite geöffnet            | Benutzer scrollt nach unten        |  Unter den Produktbildern soll der Name des Produkts angezeigt werden                |
+| 6.5 |  Produktseite geöffnet            | Benutzer scrollt nach unten        |  Unter den Produktbildern soll der Preis des Produkts angezeigt werden                |
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
