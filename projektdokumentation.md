@@ -122,10 +122,10 @@ Total:
 | 2.C  |   05.06.2023    |  Mitrovic   | 60 Min           |      50 MIn          |
 | 2.D  |  16.05.2023     |  Mitrovic   | 30 Min           |       15 Min            |
 | 3.A  |   06.06.2023    |   Mitrovic  | 60 Min           |      40 Min             |
-| 3.B  |  06.06.2023     | Atputharasa | 45 Min         |     180 Min              |
+| 3.B  |  06.06.2023     | Atputharasa | 45 Min         |     90 Min              |
 | 3.C  |   06.06.2023    | Atputharasa | 30 Min           |   5 Min                |
 | 4.A  |  16.05.2023        | Atputharasa | 60 Min            |  60 Min                |
-| 5.A  |    16.05.2023      | Atputharasa | 30 Min           |    45 Min             |
+| 5.A  |    16.05.2023      | Atputharasa | 30 Min           |    10 Min             |
 |5.B   |04.06.2023|Mitrovic |45 Min |45 Min|
 |5.C   |04.06.2023|Mitrovic |30 Min |30 Min |
 | 6.A  |    04.06.2023   |   Greub     | 45 Min           |       15 Min            |
