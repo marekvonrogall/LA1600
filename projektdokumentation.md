@@ -92,16 +92,14 @@ In diesem Projekt möchten wir eine Webseite erstellen, die ansprechend und einf
 | 5.A  |   23.5    |  Atputharasa         |  Ganz Unten auf der Seite sollen die Kontaktdaten angegeben werden           |  30             |
 | 5.B  |    23.5   |Mitrovic        |Wenn der Benutzer auf "Contact us" klickt, öffnet sich eine neue Seite, auf der er seine Daten eingeben und uns kontaktieren kann.|45|
 |5.C   |23.5       |Mitrovic        |Auf der "Contact us"-Seite sollte sich eine Infobox befinden, in der die Kontaktdaten über unser Unternehmen bereitgestellt werden.|30|
-| 6.A  |   23.5    |  Atputharasa         |  Unter dem Bild sollen neue Produkte zur Schau gestellt werden            |    45           |
-| 6.B  |   23.5    |  Atputharasa         |  Man soll sich bei den neuen Produkte von links nach rechts durchklicken können         |     60          |
-| 7.A  |   23.5    |  Greub         |  Wenn der Benutzer auf Produkte drückt soll die Seite mit den Produkten geöffnet werden           |    45           |
-| 7.B  |   23.5    |  Greub         |  Auf der Seite mit den Produkten sollen alle Produkte sichtbar sein           |    45           |
-| 7.C  |   23.5    |  Greub         |  Wenn der Benutzer über das Bild fährt, soll sich das Produkt auf dem Bildschirm drehen          |   60            |
-| 7.D  |   23.5    |  Greub         |  Unter den Bildern soll der Name des Produktes angezeigt werden          |   15            |
-| 7.E  |   23.5    |  Greub        |  Unter den Bildern soll ausserdem noch der Preis des Produktes angezeigt werden          |   15            |
-|8.A   |23.5       |Mitrovic       |Wenn der Benutzer auf "About Us" drückt öffnet sich eine neue Seite, auf der man viel über das Unternehmen erfahren kann |45|
-|8.B   |23.5       |Mitrovic       |Auf der About Us Seite soll es einen Text haben wie die Clothing-Brand enstanden ist.|20|
-|8.C   |23.5       |Mitrovic       |Auf der "About Us" Seite soll es einen Text haben, was die Clothing-Brand bietet. |20|
+| 6.A  |   23.5    |  Greub         |  Wenn der Benutzer auf Produkte drückt soll die Seite mit den Produkten geöffnet werden           |    45           |
+| 6.B  |   23.5    |  Greub         |  Auf der Seite mit den Produkten sollen alle Produkte sichtbar sein           |    45           |
+| 6.C  |   23.5    |  Greub         |  Wenn der Benutzer über das Bild fährt, soll sich das Produkt auf dem Bildschirm drehen          |   60            |
+| 6.D  |   23.5    |  Greub         |  Unter den Bildern soll der Name des Produktes angezeigt werden          |   15            |
+|6.E  |   23.5    |  Greub        |  Unter den Bildern soll ausserdem noch der Preis des Produktes angezeigt werden          |   15            |
+|7.A   |23.5       |Mitrovic       |Wenn der Benutzer auf "About Us" drückt öffnet sich eine neue Seite, auf der man viel über das Unternehmen erfahren kann |45|
+|7.B   |23.5       |Mitrovic       |Auf der About Us Seite soll es einen Text haben wie die Clothing-Brand enstanden ist.|20|
+|7.C   |23.5       |Mitrovic       |Auf der "About Us" Seite soll es einen Text haben, was die Clothing-Brand bietet. |20|
 
 
 Total: 
@@ -124,22 +122,20 @@ Total:
 | 2.C  |   05.06.2023    |  Mitrovic   | 60 Min           |      50 MIn          |
 | 2.D  |  16.05.2023     |  Mitrovic   | 30 Min           |       15 Min            |
 | 3.A  |   06.06.2023    |   Mitrovic  | 60 Min           |      40 Min             |
-| 3.B  |  06.06.2023     | Atputharasa | 45 Min         |     40 Min              |
-| 3.C  |   06.06.2023    | Atputharasa | 30 Min           |   30 Min                |
-| 4.A  |  16.05.2023        | Atputharasa | 60 Min            |  45 Min                |
+| 3.B  |  06.06.2023     | Atputharasa | 45 Min         |     180 Min              |
+| 3.C  |   06.06.2023    | Atputharasa | 30 Min           |   5 Min                |
+| 4.A  |  16.05.2023        | Atputharasa | 60 Min            |  60 Min                |
 | 5.A  |    16.05.2023      | Atputharasa | 30 Min           |    45 Min             |
 |5.B   |04.06.2023|Mitrovic |45 Min |45 Min|
 |5.C   |04.06.2023|Mitrovic |30 Min |30 Min |
-| 6.A  |       |Atputharasa  | 45 Min           |                   |
-| 6.B  |       |Atputharasa  | 60 Min           |                   |
-| 7.A  |    04.06.2023   |   Greub     | 45 Min           |       15 Min            |
-| 7.B  |    30.05.2023   |    Greub    | 45 Min           |        60 Min           |
-| 7.C  |    30.05.2023   |    Greub    | 60 Min           |        100 Min           |
-| 7.D  |    16.05.2023   |    Greub    | 15  min          |         15 Min          |
-| 7.E  |    16.05.2023   |    Greub    | 15  Min          |       20 Min            |
-|8.A   |04.06.2023            |Mitrovic     |45 Min            |30 Min|
-|8.B   |04.06.2023            |Mitrovic     |20 Min            |10 Min|
-|8.C   |04.06.2023|Mitrovic     |20 Min         |10 Min|
+| 6.A  |    04.06.2023   |   Greub     | 45 Min           |       15 Min            |
+| 6.B  |    30.05.2023   |    Greub    | 45 Min           |        60 Min           |
+| 6.C  |    30.05.2023   |    Greub    | 60 Min           |        100 Min           |
+| 6.D  |    16.05.2023   |    Greub    | 15  min          |         15 Min          |
+| 6.E  |    16.05.2023   |    Greub    | 15  Min          |       20 Min            |
+|7.A   |04.06.2023            |Mitrovic     |45 Min            |30 Min|
+|7.B   |04.06.2023            |Mitrovic     |20 Min            |10 Min|
+|7.C   |04.06.2023|Mitrovic     |20 Min         |10 Min|
 
 
 
