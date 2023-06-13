@@ -10,7 +10,8 @@ Gruppenmitglieder: von Rogall, Atputharasa, Greub und Mitrovic
 | 16.5.23      | 0.0.2    |     Erweiterung der Dokumentation und Realisieren begonnen                           |
 | 23.5.23      | 1.0.0   |    Header mit Suchleiste erstellt, Startseite erstellt                                                          |
 | 30.5.23      | 1.0.1   |    Produktseite begonnen, Startseite weiter verbessert                                                          |
-| 06.6.23      | 1.0.2   |    Produkt, About us und Contact us-Seiten erweitert und verbessert                                                         |
+| 06.6.23      | 1.0.2   |    Produkt, About us und Contact us-Seiten erweitert und verbessert. Präsentation Thema ausgewählt.                                                         |
+|13.06.2023|Projektdokumentation erweitert und Präsentation über CSS Animation vorbereitet||
 
 ## 1 Informieren
 
