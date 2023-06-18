@@ -1,0 +1,7 @@
+.rotate-image {
+    transition: transform 0.5s;
+}
+
+.rotate-image:hover {
+    transform: rotateY(180deg);
+}
