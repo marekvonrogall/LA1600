@@ -167,7 +167,7 @@ Total:
 
 `Fazit:`
 
-Wir sind stolz darauf, dass wir unsere Clothing-Brand-Website erfolgreich gemäß unseren Wünschen umgesetzt haben. Als Gruppe haben wir dieses Projekt erfolgreich abgeschlossen. Die meisten unserer Anforderungen konnten wir erfolgreich erfüllen. Leider gab es jedoch einen kleinen Teil, bei dem wir keinen Erfolg hatten.
+Wir sind stolz darauf, dass wir unsere Clothing-Brand-Website erfolgreich gemäss unseren Wünschen umgesetzt haben. Als Gruppe haben wir dieses Projekt erfolgreich abgeschlossen. Die meisten unserer Anforderungen konnten wir erfolgreich erfüllen. Leider gab es jedoch einen kleinen Teil, bei dem wir keinen Erfolg hatten.
 
 ## 6 Auswerten
 
