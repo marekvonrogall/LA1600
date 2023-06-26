@@ -1,5 +1,5 @@
 # Lern-Bericht
-`Gruppenname`: Cookies 
+`Gruppenname`: Mango 
 
 `Mitglieder`: Filip Mitrovic, Marek von Rogall, Manuel Greub, Agachan Atphutharasa
 
