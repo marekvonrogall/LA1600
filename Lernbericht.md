@@ -66,7 +66,7 @@ Es ist wichtig zu erwähnen, dass die Werte für die Übergangszeit von 0,9 Seku
 # Reflexion zum Arbeitsprozess
 
 
-👍Bei unserer Arbeit lief gut,  
+👍Bei unserer Arbeit lief gut, dass wir alle sehr viel Spass an unserem Projekt hatten, weshalb wir auch gut mit unserer Website vorankamen. Wir verstanden uns sehr gut miteinander, wodurch wir am Ende eine qualitativ hochwertige Website abliefern konnten.
 
 
 👎Bei unserer Arbeit lief die Planung nicht gut. Die Arbeitspakete wurden zugeteilt, jedoch hatten die Gruppenmitglieder innerhalb dieser Arbeitspakete unterschiedlich viel Arbeit zu erledigen.
