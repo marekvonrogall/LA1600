@@ -1,7 +1,7 @@
 # Lern-Bericht
 `Gruppenname`: Mango 
 
-`Mitglieder`: Filip Mitrovic, Marek von Rogall, Manuel Greub, Agachan Atphutharasa
+`Mitglieder`: Filip Mitrovic, Marek von Rogall, Manuel Greub, Agachan Atputharasa
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Einleitung
