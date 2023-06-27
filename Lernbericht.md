@@ -21,7 +21,6 @@ Da unser Spiel drei Spuren besitzt, auf denen sich der Spieler bewegen kann, wer
 ```html
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="utf-8">
     <title>Drehende Kuh</title>
