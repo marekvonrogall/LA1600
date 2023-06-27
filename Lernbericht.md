@@ -15,8 +15,9 @@ In diesem Projekt haben wir gelernt, wie wir Bilder auf unserer Website drehen k
 ## Code-Erklärung
 
 
-Bei der Erstellung des *Obsticles* werden *Parents* als durchsichtige Boxen verwendet, welche die *Children* enthalten. Hierfür verwenden wir ein leeres Game Object als *Parent* und drei Würfel als *Children*. 
-Da unser Spiel drei Spuren besitzt, auf denen sich der Spieler bewegen kann, werden davon zwei von den Objekten eingenommen. Hierfür werden drei Schablonen erstellt und mit einem Zufalls-Generator und *System.Random* ausgewählt, wobei immer ein unsichtbarer Würfel erzeugt wird, indem seine Grösse auf 0 gesetzt wird.
+Als Erstes muss für das Bild die Klasse 'rotating_image' festgelegt werden. So werden anschliessend nur Bilder mit dieser Klasse gedreht und nicht alle auf der Webseite vorhandenen Bilder. Hier wird die Breite und Höhe des Bildes auf 1000 Pixel festgelegt. Nun wird mit der CSS-Eigenschaft 'transform' festgelegt, wie lang die Animation dauern soll.
+
+Die Klasse '.rotating_image:hover' wird hier dazu verwendet, das Bild, wenn der Benutzer darüber hovert, um 180° zu drehen. Hierfür wird die CSS-Eigenschaft 'transform' mit dem Wert 'rotateY(-180deg)' verwendet, um das Bild um 180° an der Y-Achse zu drehen.
 
 ```html
 <!DOCTYPE html>
@@ -47,9 +48,7 @@ Da unser Spiel drei Spuren besitzt, auf denen sich der Spieler bewegen kann, wer
 *Dieser Code beinhaltet die oben beschriebenen Schritte zur Generierung un zufälligen Auswahl der Objekte.*
 
 
-Danach müssen die Würfel noch in die *Parents* eingefügt werden und an der richtigen Position platziert werden.
-Damit die Hindernisse auch gut im Spiel aussehen, haben sie anschliessend noch ein schicke Textur erhalten.
-Bezüglich der Hindernisse gibt es noch weitere Änderungen, jedoch haben diese weniger mit der Generierung, sondern mit der Bewegung zu tun.
+Es ist wichtig zu erwähnen, dass die Werte für die Übergangszeit von 0,3 Sekunden und den Rotationswert von 180° beliebig angepasst werden können, um die Animation nach den eigenen Vorstellungen anzupassen.
 
 ![LB_DrehendeKuh3](https://github.com/marekvonrogall/LA1600/assets/110893394/5003f612-e105-485f-ba5d-9e369f6a151d)
 
