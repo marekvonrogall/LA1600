@@ -44,10 +44,10 @@ Die Klasse `.rotating_image:hover` wird hier dazu verwendet, das Bild, wenn der 
 </body>
 </html>
 ```
-*Dieser Code beinhaltet die oben beschriebenen Schritte zur Generierung un zufälligen Auswahl der Objekte.*
+*Dieser Code beinhaltet die oben beschriebenen Schritte um ein Bild zu drehen.*
 
 
-Es ist wichtig zu erwähnen, dass die Werte für die Übergangszeit von 0,3 Sekunden und den Rotationswert von 180° beliebig angepasst werden können, um die Animation nach den eigenen Vorstellungen anzupassen.
+Es ist wichtig zu erwähnen, dass die Werte für die Übergangszeit von 0,9 Sekunden und den Rotationswert von 180° beliebig angepasst werden können, um die Animation nach den eigenen Vorstellungen anzupassen.
 
 ![LB_DrehendeKuh3](https://github.com/marekvonrogall/LA1600/assets/110893394/5003f612-e105-485f-ba5d-9e369f6a151d)
 
