@@ -18,7 +18,7 @@ In diesem Projekt haben wir gelernt, wie wir Bilder auf unserer Website drehen k
 Bei der Erstellung des *Obsticles* werden *Parents* als durchsichtige Boxen verwendet, welche die *Children* enthalten. Hierfür verwenden wir ein leeres Game Object als *Parent* und drei Würfel als *Children*. 
 Da unser Spiel drei Spuren besitzt, auf denen sich der Spieler bewegen kann, werden davon zwei von den Objekten eingenommen. Hierfür werden drei Schablonen erstellt und mit einem Zufalls-Generator und *System.Random* ausgewählt, wobei immer ein unsichtbarer Würfel erzeugt wird, indem seine Grösse auf 0 gesetzt wird.
 
-```c#
+```html
 <!DOCTYPE html>
 <html>
 
