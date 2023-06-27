@@ -69,7 +69,8 @@ Es ist wichtig zu erwähnen, dass die Werte für die Übergangszeit von 0,9 Seku
 👍Bei unserer Arbeit lief gut,  
 
 
-👎Bei unserer Arbeit lief nicht gut, nd zweite Schritt von IPERKA (Informieren und Planen) ist uns eher weniger gelungen. 
+👎Bei unserer Arbeit lief die Planung nicht gut. Die Arbeitspakete wurden zugeteilt, jedoch hatten die Gruppenmitglieder innerhalb dieser Arbeitspakete unterschiedlich viel Arbeit zu erledigen.
+Das führte dazu, dass Gruppenmitglieder ihre Arbeitspakete schon beenden konnten, während andere noch lange nicht fertig waren. 
 
 
 **VBV**: Ein Verbesserungsvorschlag für uns wäre, 
