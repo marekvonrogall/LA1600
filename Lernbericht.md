@@ -28,7 +28,7 @@ Da unser Spiel drei Spuren besitzt, auf denen sich der Spieler bewegen kann, wer
         .rotating_image img {
             width: 1000px;
             height: 1000px;
-            transition: transform 0.3s;
+            transition: transform 0.9s;
         }
 
         .rotating_image:hover img {
@@ -53,7 +53,7 @@ Bezüglich der Hindernisse gibt es noch weitere Änderungen, jedoch haben diese 
 
 ![LB_DrehendeKuh3](https://github.com/marekvonrogall/LA1600/assets/110893394/5003f612-e105-485f-ba5d-9e369f6a151d)
 
-*Hier sieht man wie sich das Bild dreht.*
+*Hier sieht man, wie sich das Bild dreht.*
 
 
 
