@@ -59,9 +59,9 @@ Es ist wichtig zu erwähnen, dass die Werte für die Übergangszeit von 0,9 Seku
 
 * `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
 
-* `Code:` Dieser Code ist ein Beispiel, denn man für das Programm benutzen kann.
+* `Code:` Dieser Code ist ein Beispiel, wie man ein sich drehendes Bild auf einer Website implementieren kann.
 
-* `Gif:` Das Gif dient zur Demonstration des Programmes.
+* `Gif:` Das Gif dient zur Veranschaulichung des Codes (Beispielwebsite mit drehendem Bild).
 
 # Reflexion zum Arbeitsprozess
 
