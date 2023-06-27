@@ -52,8 +52,9 @@ Danach müssen die Würfel noch in die *Parents* eingefügt werden und an der ri
 Damit die Hindernisse auch gut im Spiel aussehen, haben sie anschliessend noch ein schicke Textur erhalten.
 Bezüglich der Hindernisse gibt es noch weitere Änderungen, jedoch haben diese weniger mit der Generierung, sondern mit der Bewegung zu tun.
 
+![LB_DrehendeKuh](https://github.com/marekvonrogall/LA1600/assets/110893394/53777c0d-3b83-491e-8915-bab2398aae75)
 
-*Hier sieht man nun das Ergebnis in unserem Spiel. Die Objekte nehmen eine von drei Formen an, so dass der Spieler diesen dann ausweichen kann.*
+*Hier sieht man wie sich das Bild dreht.*
 
 
 
