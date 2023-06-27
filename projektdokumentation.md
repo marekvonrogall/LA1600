@@ -171,4 +171,4 @@ Wir sind stolz darauf, dass wir unsere Clothing-Brand-Website erfolgreich gemäs
 
 ## 6 Auswerten
 
-
+Link zum Lernbericht: https://github.com/marekvonrogall/LA1600/blob/main/Lernbericht.md
