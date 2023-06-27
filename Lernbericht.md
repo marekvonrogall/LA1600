@@ -73,6 +73,6 @@ Es ist wichtig zu erwähnen, dass die Werte für die Übergangszeit von 0,9 Seku
 Das führte dazu, dass Gruppenmitglieder ihre Arbeitspakete schon beenden konnten, während andere noch lange nicht fertig waren. 
 
 
-**VBV**: Ein Verbesserungsvorschlag für uns wäre,  Klare Arbeitspakete definieren, gleichmäßige Verteilung der Arbeit sicherstellen, regelmäßige Kommunikation und Flexibilität fördern.
+**VBV**: Für unser nächstes Projekt nehmen wir uns vor klare Arbeitspakete zu definieren, eine gleichmässige Verteilung der Arbeit sicherzustellen und die regelmässige Kommunikation zu fördern.
 
 
