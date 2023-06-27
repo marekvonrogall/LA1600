@@ -14,10 +14,9 @@ In diesem Projekt haben wir gelernt, wie wir Bilder auf unserer Website drehen k
 
 ## Code-Erklärung
 
+Als Erstes muss für das Bild die Klasse `rotating_image` festgelegt werden. So werden anschliessend nur Bilder mit dieser Klasse gedreht und nicht alle auf der Webseite vorhandenen Bilder. Hier wird die Breite und Höhe des Bildes auf 1000 Pixel festgelegt. Nun wird mit der CSS-Eigenschaft `transform` festgelegt, wie lang die Animation dauern soll.
 
-Als Erstes muss für das Bild die Klasse 'rotating_image' festgelegt werden. So werden anschliessend nur Bilder mit dieser Klasse gedreht und nicht alle auf der Webseite vorhandenen Bilder. Hier wird die Breite und Höhe des Bildes auf 1000 Pixel festgelegt. Nun wird mit der CSS-Eigenschaft 'transform' festgelegt, wie lang die Animation dauern soll.
-
-Die Klasse '.rotating_image:hover' wird hier dazu verwendet, das Bild, wenn der Benutzer darüber hovert, um 180° zu drehen. Hierfür wird die CSS-Eigenschaft 'transform' mit dem Wert 'rotateY(-180deg)' verwendet, um das Bild um 180° an der Y-Achse zu drehen.
+Die Klasse `.rotating_image:hover` wird hier dazu verwendet, das Bild, wenn der Benutzer darüber hovert, um 180° zu drehen. Hierfür wird die CSS-Eigenschaft `transform` mit dem Wert `rotateY(-180deg)` verwendet, um das Bild um 180° an der Y-Achse zu drehen.
 
 ```html
 <!DOCTYPE html>
